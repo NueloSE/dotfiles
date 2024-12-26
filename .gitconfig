@@ -1,7 +1,7 @@
 [user]
-	name = w3cj
-	email = cj@null.computer
+	name = nuelo
+	email = akalo.emmanuel18@gmail.com
 [core]
-	editor = nano
+	editor = vi
 [init]
 	defaultBranch = main
